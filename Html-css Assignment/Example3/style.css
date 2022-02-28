@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    font-weight: 100;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px 0;
+    color: white;
+    border: 2px solid rgb(164, 164, 233);
+    background-color: rgb(166, 166, 255);
+    width: fit-content;
+}
+
+.content-1 {
+    padding: 20px 15px;
+}
+
+#heading1 {
+    text-transform: uppercase;
+}
+
+#heading2 {
+    background-color: rgb(185, 155, 224);
+    text-transform: lowercase;
+}
