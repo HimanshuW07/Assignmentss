@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example2</title>
+</head>
+<body>
+    <script>
+
+        function test(cool){
+            if (cool){
+              let fname = "Himanshu";     //block level variable.
+              const lname="Wakade";   //block level variable.
+              console.log(`${fname} ${lname} u are a cool.`); //Tried to Accessing variable in the block.
+            }
+            console.log(`${fname} ${lname} then also u are cool.`); // Tried to Access variable out the block , throughs error.
+        }
+
+        test(true);
+        test(false);
+
+
+    </script>
+</body>
+</html>
