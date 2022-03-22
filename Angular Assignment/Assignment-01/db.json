@@ -1,0 +1,38 @@
+{
+  "addList": [
+    {
+      "restaurantName": "Ice & Spice",
+      "ownerName": "Piyush Mehta",
+      "location": "Bramhapuri",
+      "speciality": "Butterscoch Icecream",
+      "type": "Indian",
+      "id": 2
+    },
+    {
+      "restaurantName": "Shawarma",
+      "ownerName": "Gandharv Goyal",
+      "location": "Beijing",
+      "speciality": "Chicken Shawarma",
+      "type": "Chinese",
+      "id": 3
+    },
+    {
+      "restaurantName": "Dinshaw",
+      "ownerName": "Parag Deshpande",
+      "location": "Kyiv",
+      "speciality": "Non-veg",
+      "type": "Italian",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+} 

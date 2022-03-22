@@ -1,0 +1,22 @@
+{
+  "addList": [
+    {
+      "addTitle": "d",
+      "addName": "ddddd",
+      "date": "2022-03-23T18:30:00.000Z",
+      "category": "Furniture",
+      "description": "dwdcw",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
